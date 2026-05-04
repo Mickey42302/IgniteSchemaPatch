@@ -1,0 +1,7 @@
+{
+  "id": "mickey42302-schema",
+  "version": "1.0.0",
+  "mixins": [
+    "mickey42302-schema.mixins.json"
+  ]
+}
