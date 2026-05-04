@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.7",
+  "package": "com.mickey42302.schema.mixin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_21",
+  "server": [
+    "SharedConstantsMixin"
+  ]
+}
